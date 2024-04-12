@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "863960907293",
+    "project_id": "bomjourconsumer",
+    "storage_bucket": "bomjourconsumer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863960907293:android:320e5bf22acb41acd1d0f4",
+        "android_client_info": {
+          "package_name": "com.pro.bomjour"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "863960907293-dmlan1r434him8u6m0fpk9et7uliodds.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pro.bomjour",
+            "certificate_hash": "86f7902548fc5ffd1d2dba591effedc7cccf4c04"
+          }
+        },
+        {
+          "client_id": "863960907293-op6bidmsqtg1rja7eprf2to1u5hfct0h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7s-m6WJMpf8TopRyhpWFzPwnZE4ynXug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "863960907293-op6bidmsqtg1rja7eprf2to1u5hfct0h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
